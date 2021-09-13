@@ -1,5 +1,7 @@
 # Notes
 
+This is a basic Notebook , where all users can store their own notes, without bothering about privacy !!
+
 ## Available Scripts
 
 In the project directory, you can run:
